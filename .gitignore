@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+.env
+*.sqlite3
+
+# System files
+.DS_Store
+
+# Logs and data
+logs/
+*.log
+*.csv
+*.json
+*.db
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Output artifacts
+*.png
+*.jpg
+*.svg
+*.pdf
+
+# Experiment tracking (optional)
+wandb/
+mlruns/
